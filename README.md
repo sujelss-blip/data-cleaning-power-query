@@ -1,8 +1,7 @@
-# 🧹 Data Cleaning Project – Power Query
+# 🧹 Data Cleaning Project using Power Query (Excel)
 
 ## 📊 Overview
-
-This project focuses on cleaning and transforming a raw transactional dataset using Power Query in Excel.
+This project demonstrates real-world data cleaning skills required for data analysis roles.
 
 The dataset contained multiple data quality issues such as missing values, errors, and inconsistencies.
 
@@ -41,6 +40,7 @@ The following steps were applied:
 ## 📁 Files
 
 * `cleaned_dataset.xlsx`
+* `raw_dataset.xlsx`
 
 ---
 
